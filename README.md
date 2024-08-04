@@ -3,6 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 create .env.local file at root and add the following secrets:
 
 CONNECTION_STRING
+
 DOC_STRING
 
 Then run:
