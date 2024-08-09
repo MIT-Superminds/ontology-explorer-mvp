@@ -6,7 +6,7 @@ CONNECTION_STRING
 
 DOC_STRING
 
-These values can come from a y-sweet server you are running somewhere (including localhost) or via https://y-sweet.cloud/
+These values can come from a [y-sweet server](https://github.com/jamsocket/y-sweet) you are running somewhere (including localhost) or via [y-sweet cloud](https://y-sweet.cloud/)
 
 Then run:
 
